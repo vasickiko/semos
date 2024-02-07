@@ -1,0 +1,6 @@
+wp-admin
+wp-includes
+.htaccess
+index.phpstatus
+wp-activate.php
+wp-blog-header.php
